@@ -18,16 +18,25 @@ Temas:
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula | Aluno           |
+| --------- | --------------- |
+| xx/xxxxxx | xxxx xxxx xxxxx |
+| xx/xxxxxx | xxxx xxxx xxxxx |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
+## Problemas 
+
+| Problema                                                                                                                                                                        | Dificuldade |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Bellman-Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Média       |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Bellman-Ford
+
+![Bellman-Ford](assets/bellman-ford.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
