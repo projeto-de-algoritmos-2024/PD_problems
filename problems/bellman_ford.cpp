@@ -10,7 +10,6 @@
  * {-1}.
  *
  * Difficulty Level: Medium
- * https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
  */
 
 #include <iostream>
