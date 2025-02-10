@@ -30,13 +30,18 @@ Descreva os objetivos do seu projeto e como ele funciona.
 
 | Problema                                                                                                                                                                        | Dificuldade |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Bellman-Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Média       |
+| [Bellman-Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Medium      |
+| [Knapsack 0-1](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)                                                                                               | Medium      |
 
 ## Screenshots
 
 ### Bellman-Ford
 
 ![Bellman-Ford](assets/bellman-ford.png)
+
+### Knapsack 0-1
+
+![Knapsack 0-1](assets/knapsack01.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
