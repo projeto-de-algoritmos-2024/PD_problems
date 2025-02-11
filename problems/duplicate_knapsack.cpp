@@ -8,6 +8,8 @@
  * Return the maximum profit.
  *
  * Note: Each item can be taken any number of times.
+ * 
+ * Difficulty Level: Medium
  */
 
 #include <iostream>
