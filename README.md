@@ -53,6 +53,6 @@ Para testar as soluções basta submeter o código nas respectivas plataformas d
 
 ## Vídeo
 
-
+https://youtu.be/GYC9sDmSL-U
 
 
