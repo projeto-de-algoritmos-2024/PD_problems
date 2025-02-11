@@ -1,16 +1,14 @@
+import bisect
+from typing import List
+
 class Solution:
     
-    def compatible(self, jobs, i):
-        for j in range(i-1, -1, -1):
-            if jobs[j][1] <= jobs[i][0]:
-                return j
-        return -1
-    
+    def compatible(self, jobs, i, end_times):
+        j = bisect.bisect_right(end_times, jobs[i][0]) - 1
+        return j
     def compatibles(self, jobs):
-        p = []
-        for i in range(len(jobs)):
-            p.append(self.compatible(jobs, i))
-        return p
+        end_times = [job[1] for job in jobs]
+        return [self.compatible(jobs, i, end_times) for i in range(len(jobs))]
 
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
         jobs = sorted(zip(startTime, endTime, profit), key=lambda x: x[1])
