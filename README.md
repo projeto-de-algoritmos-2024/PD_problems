@@ -1,7 +1,7 @@
 # Problems
 
-**Número da Lista**: 19<br>
-**Conteúdo da Disciplina**: PD - Programação Dinâmica<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 | Matrícula | Aluno                 |
