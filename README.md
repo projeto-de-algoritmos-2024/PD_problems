@@ -1,6 +1,6 @@
 # Problems
 
-**Número da Lista**: 1<br>
+**Número da Lista**: 19<br>
 **Conteúdo da Disciplina**: PD - Programação Dinâmica<br>
 
 ## Alunos
@@ -11,7 +11,7 @@
 
 ## Sobre 
 
-O trabalho consiste em resolver problemas de programação dinâmica, de plataformas como Leetcode e GeekForGeeks. Os problemas resolvidos são: Bellman-Ford, Knapsack 0-1, Knapsack with duplicate items, Longest Common Subsequence e .
+O trabalho consiste em resolver problemas de programação dinâmica, de plataformas como Leetcode e GeekForGeeks. Os problemas resolvidos são: Bellman-Ford, Knapsack 0-1, Knapsack with duplicate items, Longest Common Subsequence e Maximum Profit in Job Scheduling.
 
 ## Problemas 
 
