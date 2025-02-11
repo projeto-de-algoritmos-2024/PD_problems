@@ -1,7 +1,4 @@
 class Solution:
-
-    def max(self, take, dontTake):
-        return take if take >= dontTake else dontTake
     
     def compatible(self, jobs, i):
         for j in range(i-1, -1, -1):
@@ -24,5 +21,5 @@ class Solution:
             include_profit = jobs[i][2]
             if p[i] != -1:
                 include_profit += result[p[i]]
-            result[i] = self.max(include_profit, result[i - 1] if i > 0 else 0)
+            result[i] = max(include_profit, result[i - 1] if i > 0 else 0)
         return result[-1]
